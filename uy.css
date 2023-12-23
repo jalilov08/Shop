@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+.aka {
+    max-width: 1400px;
+    height: 100%;
+    margin-left: 520px;
+    margin-right: 200px;
+    margin-top: 30p;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.aka img {
+    width: 500px;
+    height: auto;
+    margin-bottom: 15px;
+    margin-top: 30px;
+    border-radius: 30px;
+    border: 3px solid black;
+}
+
+.aka h1 {
+    color: black;
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+
